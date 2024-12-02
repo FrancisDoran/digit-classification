@@ -19,5 +19,11 @@ https://www.kaggle.com/datasets/hojjatk/mnist-dataset
 - train to satisfaction
 ### deployment
 - write an interface that take a image and returns a classification.
+### write up
+- update as you work
+- clean up and finalize at the end
+- consider any data vis that could capture the training process
 ### stretch goal
 - solve a simple math problem from a photo
+### division of labor
+tbd
